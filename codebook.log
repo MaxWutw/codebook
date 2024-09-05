@@ -1,0 +1,119 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.10.4)  6 SEP 2024 00:33
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/max/Documents/codebook/codebook/codebook.tex
+(/Users/max/Documents/codebook/codebook/codebook.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+
+(/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ar
+ticle.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/si
+ze10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amscls/
+amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks17
+\thm@bodyfont=\toks18
+\thm@headfont=\toks19
+\thm@notefont=\toks20
+\thm@headpunct=\toks21
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks22
+)
+(/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfont
+s/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfont
+s/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks23
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspe
+c/fontspec.sty
+(/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packa
+ges/xparse/xparse.sty
+(/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kerne
+l/expl3.sty
+Package: expl3 2023-08-29 L3 programming layer (loader) 
+
+(/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backe
+nd/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+))
+Package: xparse 2023-08-29 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+
+/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec
+/fontspec.sty:45: Fatal Package fontspec Error: The fontspec package requires e
+ither XeTeX or
+(fontspec)                      LuaTeX.
+(fontspec)                      
+(fontspec)                      You must change your typesetting engine to,
+(fontspec)                      e.g., "xelatex" or "lualatex" instead of
+(fontspec)                      "latex" or "pdflatex".
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.45 \msg_fatal:nn {fontspec} {cannot-use-pdftex}
+                                                 
+
+LaTeX does not know anything more about this error, sorry.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+This is a fatal error: LaTeX will abort.
+
+
+
+/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec
+/fontspec.sty:45: Emergency stop.
+<read *> 
+         
+l.45 \msg_fatal:nn {fontspec} {cannot-use-pdftex}
+                                                 
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 1106 strings out of 477182
+ 17908 string characters out of 2807575
+ 1917791 words of memory out of 3000000
+ 22451 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 79i,0n,93p,267b,44s stack positions out of 5000i,500n,10000p,200000b,80000s
+/Users/max/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fontspec
+/fontspec.sty:45:  ==> Fatal error occurred, no output PDF file produced!
