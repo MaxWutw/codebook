@@ -55,3 +55,4 @@ jobs:
           branch: pdf
           commit_message: auto build codebook.pdf
           file_pattern: codebook.pdf
+          token: ${{ secrets.GITHUB_TOKEN }}
