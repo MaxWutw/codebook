@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "ios": "cpp"
+        "ios": "cpp",
+        "__tree": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "bitset": "cpp"
     }
 }
