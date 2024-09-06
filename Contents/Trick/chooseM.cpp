@@ -15,9 +15,8 @@ void combination(int n, int m){
         while((k>0) && (n-a[k] == m-k)) k --;
         if(k == 0) break;
         a[k] ++;
-        for(int i=)
-    }
-
-        
-        
+        for(int i=k+1;i<=m;i++){
+            a[i] = a[i-1] + 1;
+        }
+    }        
 }

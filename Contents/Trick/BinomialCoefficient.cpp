@@ -1,7 +1,6 @@
 #define MAXN 100 // largest n or m
 long binomial_coefficient(n, m) // compute n choose m
-int n, m;
-{
+int n, m;{
     int i, j;
     long bc[MAXN][MAXN];
     for(i = 0;i <= n;i++) bc[i][0] = 1;
